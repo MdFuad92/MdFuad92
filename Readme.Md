@@ -26,8 +26,7 @@ Hello! I'm Md Fuad, a dedicated and enthusiastic web developer with a passion fo
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 </p>
 <hr>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
-<hr>
+
 ![MdFuad92's GitHub stats](https://github-readme-stats.vercel.app/api?username=MdFuad92&theme=gotham&show_icons=true)
 
 
