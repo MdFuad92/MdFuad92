@@ -12,7 +12,7 @@ Hello! I'm Md Fuad, a dedicated and enthusiastic web developer with a passion fo
 • 🔧 **Problem Solver**: I thrive on problem-solving and enjoy debugging and optimizing code to enhance performance and user experience.
 
 
-![Header](./your-header-image-name.png)
+
 
 
 
