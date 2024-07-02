@@ -11,7 +11,7 @@ Hello! I'm Md Fuad, a dedicated and enthusiastic web developer with a passion fo
 
 • 🔧 **Problem Solver**: I thrive on problem-solving and enjoy debugging and optimizing code to enhance performance and user experience.
 
-<hr/>
+
 
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
@@ -27,8 +27,6 @@ Hello! I'm Md Fuad, a dedicated and enthusiastic web developer with a passion fo
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 </p>
-
-<hr/>
 
 ![MdFuad92's GitHub stats](https://github-readme-stats.vercel.app/api?username=MdFuad92&theme=gotham&show_icons=true)
 
