@@ -26,7 +26,7 @@ Hello! I'm Md Fuad, a dedicated and enthusiastic web developer with a passion fo
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 </p>
 
-[![MdFuad92's GitHub stats](https://github-readme-stats.vercel.app/api?username=MdFuad92)](https://github.com/MdFuad92/github-readme-stats#gh-dark-mode-only)
+[![MdFuad92's GitHub stats](https://github-readme-stats.vercel.app/api?username=MdFuad92&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/MdFuad92/github-readme-stats#gh-dark-mode-only)
 
 
 
